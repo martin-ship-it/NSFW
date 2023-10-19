@@ -1,3 +1,4 @@
+ifunny.co
 images.scrolller.com
 api.scrolller.com
 scrolller.com
